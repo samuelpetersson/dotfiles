@@ -1,0 +1,22 @@
+
+[
+	{ "keys": ["j", "k"], "command": "exit_insert_mode",
+	    "context":
+	    [
+	        { "key": "setting.command_mode", "operand": false },
+	        { "key": "setting.is_widget", "operand": false }
+	    ]
+	},
+	{
+	"keys": ["ctrl+o"],
+		"command": "dired"
+	},
+  {
+      "keys": ["enter"],
+      "command": "dired_select", "args": {"other_group": false},
+      "context": [
+        { "key": "selector", "operator": "equal", "operand": "text.dired" },
+        { "key": "setting.dired_rename_mode", "operand": false }
+      ]
+  }
+]
