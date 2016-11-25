@@ -2,7 +2,7 @@ set -o vi
 
 PS1='\W$(vcprompt -f "[%b%m%u]") '
 
-alias l="ls -al"
+alias l="ls -alG"
 alias p="pwd"
 alias s="git status"
 
