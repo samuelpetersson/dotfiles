@@ -1,4 +1,3 @@
-# config
+# Dotfiles
 
-Configuration files
 
