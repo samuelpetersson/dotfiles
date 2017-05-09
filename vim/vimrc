@@ -1,0 +1,53 @@
+call plug#begin()
+Plug 'sheerun/vim-polyglot'
+Plug 'tpope/vim-surround'
+Plug 'airblade/vim-gitgutter'
+Plug 'mattn/emmet-vim'
+Plug 'vifm/vifm.vim'
+call plug#end()
+
+syntax enable
+filetype plugin indent on
+colorscheme smyck
+
+set nocompatible
+set path+=**
+set iskeyword+=-
+set wildmenu
+let g:loaded_matchparen=1
+set backspace=2
+set relativenumber
+set number
+set nowrap
+set tabstop=2
+set shiftwidth=2
+set autoread
+set ignorecase
+set incsearch 
+set hidden
+set nobackup
+set nowb
+set noswapfile
+
+set rtp+=/usr/local/opt/fzf
+set grepprg=ag\ --nogroup\ --nocolor
+
+
+" Mappings
+" nnoremap lv :e $MYVIMRC<cr>
+" nnoremap so :source $MYVIMRC<cr>
+
+" nnoremap h :FZF<CR>
+" nnoremap l :bnext<CR>
+
+" nnoremap lk :make\|redraw!\|<CR>
+" nnoremap hh :w<cr>
+
+" Save, bnext, make, FZF
+nnoremap <space> :
+
+nnoremap <Tab> <C-w>w
+nnoremap <S-Tab> <C-w>W
+
+nnoremap cn :cn<CR>
+nnoremap cp :cp<CR>
