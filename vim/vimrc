@@ -33,21 +33,18 @@ set rtp+=/usr/local/opt/fzf
 set grepprg=ag\ --nogroup\ --nocolor
 
 
-" Mappings
-" nnoremap lv :e $MYVIMRC<cr>
-" nnoremap so :source $MYVIMRC<cr>
-
-" nnoremap h :FZF<CR>
-" nnoremap l :bnext<CR>
-
-" nnoremap lk :make\|redraw!\|<CR>
-" nnoremap hh :w<cr>
-
-" Save, bnext, make, FZF
-nnoremap <space> :
+nnoremap h :w<cr>
+nnoremap l :bnext<cr>
 
 nnoremap <Tab> <C-w>w
 nnoremap <S-Tab> <C-w>W
 
-nnoremap cn :cn<CR>
-nnoremap cp :cp<CR>
+nnoremap <space> :
+nnoremap <space><space> :<up><cr>
+nnoremap <space>j :FZF<cr>
+nnoremap <space>k :EditVifm<cr>
+
+nnoremap : <nop>
+
+cmap w!! w !sudo tee % >/dev/null
+
