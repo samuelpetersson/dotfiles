@@ -1,0 +1,38 @@
+#!/usr/bin/env bash
+
+cd "$(dirname "$0")"
+
+
+# Install Homebrew
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+
+# Install Homebrew packages
+brew install git
+brew install trash
+brew install vcprompt
+brew install vim
+brew install vifm
+brew install ag
+brew install fzf
+brew install node
+
+
+# Add caskroom repository
+brew tap caskroom/cask
+
+
+# Instsall cask packages
+brew cask install google-chrome
+brew cask install sublime-text
+brew cask install dropbox
+brew cask install enpass
+brew cask install virtualbox
+brew cask install vagrant
+brew cask install phoenix
+
+
+# Symlink
+ln -s "$(pwd)/bash/macos" $HOME/.basrc
+ln -s "$(pwd)/vim" $HOME/.vim
+ln -s "$(pwd)/bash/phoenix/phoenix.js" $HOME/.phoenix.js

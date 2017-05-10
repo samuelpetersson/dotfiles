@@ -1,0 +1,776 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/Users/Samuel/
+	..
+1493276498
+'b
+	/Users/Samuel/bin/
+	..
+1493276498
+'h
+	/Users/Samuel/
+	..
+1493972406
+
+# Bookmarks:
+
+# TUI:
+al
+q1
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/Users/Samuel/Projects
+	TestApp
+2
+d/Users/Samuel/Projects/TestApp
+	..
+0
+d/Users/Samuel/Projects
+	Landshypotek dingård
+1
+d/Users/Samuel/Projects/Landshypotek dingård
+	..
+0
+d/Users/Samuel/Projects
+	Landshypotek dingård
+1
+d/Users/Samuel
+	charcount.js
+49
+d/Users/Samuel/Projects/charter-simulator/resources
+	views
+3
+d/Users/Samuel/Projects/charter-simulator/resources/views
+	app.blade.php
+1
+d/Users/Samuel/Projects/charter-simulator/resources
+	views
+3
+d/Users/Samuel/Projects/charter-simulator
+	resources
+9
+d/Users/Samuel/Projects/charter-simulator/resources
+	assets
+1
+d/Users/Samuel/Projects/charter-simulator/resources/assets
+	..
+0
+d/Users/Samuel/Projects/charter-simulator/resources
+	assets
+1
+d/Users/Samuel/Projects/charter-simulator
+	resources
+9
+d/Users/Samuel/Projects
+	charter-simulator
+8
+d/Users/Samuel
+	Projects
+23
+d/Users/Samuel/Projects
+	citymobility-simulator
+11
+d/Users/Samuel/Projects/citymobility-simulator
+	package.json
+24
+d/Users/Samuel/Projects
+	charter-simulator
+8
+d/Users/Samuel/Projects/charter-simulator
+	package.json
+23
+d/Users/Samuel
+	.vim
+29
+d/Users
+	Samuel
+2
+d/Users/Samuel
+	dotfiles
+13
+d/Users/Samuel/dotfiles
+	vim
+2
+d/Users/Samuel/dotfiles/vim
+	.gitignore
+4
+d/Users/Samuel
+	charcount.js
+30
+d/Users/Samuel/Projects/charter-simulator
+	resources
+9
+d/Users/Samuel/Projects/charter-simulator/resources
+	views
+3
+d/Users/Samuel/Projects/charter-simulator/resources/views
+	partials
+1
+d/Users/Samuel/Projects/charter-simulator/resources/views/partials
+	toolbar.blade.php
+12
+d/Users/Samuel/Projects/charter-simulator/resources/views
+	app.blade.php
+2
+d/Users/Samuel/Projects/charter-simulator/resources
+	views
+3
+d/Users/Samuel/Projects/charter-simulator
+	resources
+9
+d/Users/Samuel/Projects/charter-simulator/resources
+	views
+3
+d/Users/Samuel/Projects/charter-simulator
+	resources
+9
+d/Users/Samuel/Projects/charter-simulator/resources
+	lang
+2
+d/Users/Samuel/Projects/charter-simulator/resources/lang
+	..
+0
+d/Users/Samuel/Projects/charter-simulator/resources
+	lang
+2
+d/Users/Samuel/Projects/charter-simulator/resources/lang
+	en
+1
+d/Users/Samuel/Projects/charter-simulator/resources
+	views
+3
+d/Users/Samuel/Projects/charter-simulator/resources/views
+	app.blade.php
+2
+d/Users/Samuel/Projects/charter-simulator/resources
+	lang
+2
+d/Users/Samuel/Projects/charter-simulator
+	resources
+9
+d/Users/Samuel/Projects/charter-simulator/resources
+	assets
+1
+d/Users/Samuel/Projects/charter-simulator/resources/assets
+	js
+2
+d/Users/Samuel/Projects/charter-simulator/resources/assets/js
+	vendor
+8
+d/Users/Samuel/Projects/charter-simulator/resources/assets
+	sass
+4
+d/Users/Samuel/Projects/charter-simulator/resources
+	views
+3
+d/Users/Samuel/Projects/charter-simulator/resources/views
+	app.blade.php
+2
+d/Users/Samuel/Projects/charter-simulator/resources
+	lang
+2
+d/Users/Samuel/Projects/charter-simulator
+	resources
+9
+d/Users/Samuel/Projects/charter-simulator/resources
+	assets
+1
+d/Users/Samuel/Projects/charter-simulator/resources/assets
+	js
+2
+d/Users/Samuel/Projects/charter-simulator/resources/assets/js
+	app.js
+9
+d/Users/Samuel/Projects/charter-simulator/resources/assets
+	js
+2
+d/Users/Samuel/Projects/charter-simulator
+	routes
+10
+d/Users/Samuel/Projects/charter-simulator/resources/assets/js/output/calculations/services
+	..
+0
+d/Users/Samuel/Projects/charter-simulator/resources/assets/js/output/calculations
+	services
+4
+d/Users/Samuel
+	dotfiles
+44
+d/Users/Samuel/dotfiles
+	vim
+2
+d/Users/Samuel/dotfiles/vim
+	.gitignore
+4
+d/Users/Samuel/dotfiles
+	vim
+2
+d/Users/Samuel/dotfiles/vim
+	plugged
+3
+d/Users/Samuel/dotfiles
+	vim
+2
+d/Users/Samuel/dotfiles/vim
+	.gitignore
+4
+d/Users/Samuel/dotfiles
+	vim
+2
+d/Users/Samuel/dotfiles/vim
+	vimrc
+5
+d/Users/Samuel/Projects/charter-simulator
+	tests
+12
+d/Users/Samuel
+	dotfiles
+44
+d/Users/Samuel/dotfiles
+	bash
+2
+d/Users/Samuel/dotfiles/bash
+	macos
+1
+d/Users/Samuel/dotfiles
+	phoenix
+3
+d/Users/Samuel/dotfiles/phoenix
+	..
+0
+d/Users/Samuel/dotfiles
+	.DS_Store
+5
+d/Users/Samuel
+	dotfiles
+42
+d/Users/Samuel/dotfiles
+	phoenix
+3
+d/Users/Samuel/dotfiles/phoenix
+	..
+0
+d/Users/Samuel/dotfiles
+	phoenix
+3
+d/Users/Samuel/dotfiles/phoenix
+	phoenix.js
+1
+d/Users/Samuel/dotfiles
+	phoenix
+3
+d/Users/Samuel/dotfiles/phoenix
+	phoenix.js
+1
+d/Users/Samuel/dotfiles
+	phoenix
+3
+d/Users/Samuel
+	dotfiles
+30
+d/Users/Samuel/dotfiles
+	phoenix.js
+8
+d/Users/Samuel
+	dotfiles
+30
+d/Users/Samuel/dotfiles
+	phoenix
+4
+d/Users/Samuel/dotfiles/phoenix
+	phoenix.js
+1
+d/Users/Samuel/dotfiles
+	git
+3
+d/Users/Samuel/dotfiles/git
+	..
+0
+d/Users/Samuel/dotfiles
+	git
+3
+d/Users/Samuel/dotfiles/git
+	gitconfig
+1
+d/Users/Samuel/dotfiles
+	.git
+1
+d/Users/Samuel
+	dotfiles
+30
+d/Users/Samuel/dotfiles
+	bash
+2
+d/Users/Samuel/dotfiles/bash
+	macos
+1
+d/Users/Samuel/dotfiles
+	phoenix
+3
+d/Users/Samuel/dotfiles/phoenix
+	phoenix.js
+1
+d/Users/Samuel/dotfiles
+	vim
+4
+d/Users/Samuel/dotfiles/vim
+	.gitignore
+4
+d/Users/Samuel/dotfiles
+	vim
+4
+d
+
+# Right window history (oldest to newest):
+D/Users/Samuel/.config/vifm
+	vifminfo
+5
+D/Users/Samuel/dotfiles/.vim
+	plugged
+3
+D/Users/Samuel/dotfiles/.vim/plugged
+	..
+0
+D/Users/Samuel/dotfiles/.vim
+	autoload
+1
+D/Users/Samuel/dotfiles/.vim/autoload
+	..
+0
+D/Users/Samuel/dotfiles/.vim
+	autoload
+1
+D/Users/Samuel/Projects/citymobility-simulator/resources
+	lang
+2
+D/Users/Samuel/Projects/citymobility-simulator/resources/lang
+	..
+0
+D/Users/Samuel/Projects/citymobility-simulator/resources
+	lang
+2
+D/Users/Samuel/Projects/citymobility-simulator
+	resources
+7
+D/Users/Samuel/Projects
+	kockums-app-prototype
+12
+D/Users/Samuel
+	Projects
+10
+D/Users/Samuel/Projects
+	citymobility-simulator
+10
+D/Users/Samuel/Projects/citymobility-simulator
+	resources
+7
+D/Users/Samuel/Projects/citymobility-simulator/resources
+	assets
+1
+D/Users/Samuel/Projects/citymobility-simulator/resources/assets
+	stylus
+7
+D/Users/Samuel/Projects/citymobility-simulator/resources/assets/stylus
+	output
+4
+D/Users/Samuel/Projects/citymobility-simulator/resources/assets/stylus/output
+	economy
+1
+D/Users/Samuel/Projects/citymobility-simulator/resources/assets/stylus/output/economy
+	..
+0
+D/Users/Samuel/Projects/citymobility-simulator/resources/assets/stylus/output
+	safety
+3
+D/Users/Samuel/Projects/citymobility-simulator/resources/assets/stylus/output/safety
+	..
+0
+D/Users/Samuel
+	Applications
+1
+D/Users/Samuel/Applications
+	..
+0
+D/Users/Samuel
+	Movies
+7
+D/Users/Samuel/Movies
+	..
+0
+D/Users/Samuel
+	Movies
+7
+D/Users/Samuel/Movies
+	..
+0
+D/Users/Samuel
+	dotfiles
+14
+D/Users/Samuel/dotfiles
+	.vim
+2
+D/Users/Samuel
+	.config
+4
+D/Users/Samuel/.config
+	vifm
+10
+D/Users/Samuel/.config/vifm
+	..
+0
+D/Users/Samuel/.config
+	vifm
+10
+D/Users/Samuel/.config/vifm
+	colors
+1
+D/Users/Samuel/.config/vifm/colors
+	..
+0
+D/Users/Samuel/.config/vifm
+	colors
+1
+D/Users/Samuel/.config
+	vifm
+10
+D/Users/Samuel
+	.dropbox
+6
+D/Users/Samuel/.dropbox
+	..
+0
+D/Users/Samuel
+	Projects
+36
+D/Users/Samuel/Projects
+	citymobility-simulator
+11
+D/Users/Samuel
+	Projects
+36
+D/Users
+	Samuel
+2
+D/
+	Users
+10
+D/Users
+	Samuel
+2
+D/Users/Samuel
+	.config
+4
+D/Users/Samuel/.config
+	vifm
+10
+D/Users/Samuel/.config/vifm
+	vifmrc
+5
+D/Users/Samuel/.config
+	vifm
+10
+D/Users/Samuel
+	Projects
+36
+D/Users/Samuel/Projects
+	citymobility-simulator
+11
+D/Users/Samuel/Projects/citymobility-simulator
+	resources
+9
+D/Users/Samuel/Projects/citymobility-simulator/resources
+	views
+3
+D/Users/Samuel/Projects/citymobility-simulator/resources/views
+	layouts
+1
+D/Users/Samuel/Projects/citymobility-simulator/resources/views/layouts
+	master.blade.php
+1
+D/Users/Samuel/Projects/citymobility-simulator/resources/views
+	partials
+2
+D/Users/Samuel/Projects/citymobility-simulator/resources
+	views
+3
+D/Users/Samuel/Projects/citymobility-simulator/resources/views
+	app.blade.php
+5
+D/Users/Samuel/Projects/citymobility-simulator/resources
+	views
+3
+D/Users/Samuel/Projects/citymobility-simulator/resources/views
+	app.blade.php
+5
+D/Users/Samuel/Projects/citymobility-simulator/resources
+	views
+3
+D/Users/Samuel/Projects/citymobility-simulator
+	Homestead.yaml
+19
+D/Users/Samuel/Projects
+	citymobility-simulator
+11
+D/Users/Samuel/Projects/citymobility-simulator
+	resources
+9
+D/Users/Samuel/Projects/citymobility-simulator/resources
+	views
+3
+D/Users/Samuel/Projects/citymobility-simulator/resources/views
+	layouts
+1
+D/Users/Samuel/Projects/citymobility-simulator/resources/views/layouts
+	master.blade.php
+1
+D/Users/Samuel/Projects/citymobility-simulator/resources/views
+	partials
+2
+D/Users/Samuel/Projects/citymobility-simulator/resources/views/partials
+	..
+0
+D/Users/Samuel/Projects/citymobility-simulator/resources/views
+	app.blade.php
+5
+D
+
+# Command line history (oldest to newest):
+:set chaselinks=""
+:grep main
+:screen
+:select /main
+:select main
+:select /main/g
+:empty
+:diff
+:mkcd
+:make
+:grep modal
+:set confirm=""
+:get 
+:h deleteprg
+:!touch hejsan
+:set deleteprg=trash
+:!FZF
+:Q
+:cdp
+:cd Projects/
+:fzf .
+:sp
+:filter 
+:filter
+:fileviewer
+:w
+:help
+:npm run dev
+:!npm run dev
+:marks
+:colorscheme
+:highlight
+:colorscheme Smyck
+:h border
+:h
+:set chaselinks=true
+:set chaselinks 1
+:set chaselinks=1
+:set chaselinks
+:set chaselinks=false
+:set statusline = ""
+:set statusline=""
+:set chaselinks="0"
+:set chaselinks="true"
+:split
+:vs
+:cd ${fzf}
+:cd fzf
+:file
+:vsplit
+:vsp
+:mkdir hejsan
+:set deleteprg=Trash
+:q
+:wq
+:fzf
+:vim
+:.!
+:mkdir bash
+:mkdir
+:mkdir phoenix
+:mkdir git
+:git status
+
+# Search history (oldest to newest):
+/s
+/dofiles
+/re
+/.fzfjhj
+/d
+/confi
+/.vim
+/config
+/pro
+/dotfil
+/dot
+
+# Prompt history (oldest to newest):
+pUntitled.kicad_pcb
+pfeature-list2.styl
+pindex-old.styl
+pindex-old
+pindex-olda
+ptmux-test
+ptmux.hejsan
+ptmuxasf
+ptmuxhejsan
+ptmux-cheatsheet-hejsan2.md
+ptmux-cheatsheet.md
+ptmux
+pdotfiles/vim
+pphoenix.js
+pmacos
+pdotfiles/bash/macos
+p/Users/Samuel/dotfiles/phoenix/phoenix.js
+pgitconfig
+
+# Local filter history (oldest to newest):
+
+# Registers:
+""/Users/Samuel/.local/share/vifm/Trash/000_git
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/Users/Samuel/.local/share/vifm/Trash/000_feature-list2.styl
+	/Users/Samuel/Projects/citymobility-simulator/resources/assets/stylus/output/feature-list2.styl
+t/Users/Samuel/.local/share/vifm/Trash/000_hejsan
+	/Users/Samuel/Projects/citymobility-simulator/resources/assets/stylus/output/hejsan
+t/Users/Samuel/.local/share/vifm/Trash/000_index-olda.styl
+	/Users/Samuel/Projects/citymobility-simulator/resources/assets/stylus/output/index-olda.styl
+t/Users/Samuel/.local/share/vifm/Trash/001_hejsan
+	/Users/Samuel/hejsan
+t/Users/Samuel/.local/share/vifm/Trash/000_.DS_Store
+	/Users/Samuel/dotfiles/.DS_Store
+t/Users/Samuel/.local/share/vifm/Trash/000_todo
+	/Users/Samuel/Documents/hejsan/todo
+t/Users/Samuel/.local/share/vifm/Trash/001_.DS_Store
+	/Users/Samuel/Documents/hejsan/.DS_Store
+t/Users/Samuel/.local/share/vifm/Trash/000_arch
+	/Users/Samuel/Documents/hejsan/arch
+t/Users/Samuel/.local/share/vifm/Trash/000_kod
+	/Users/Samuel/Documents/hejsan/kod
+t/Users/Samuel/.local/share/vifm/Trash/000_tmux
+	/Users/Samuel/Documents/hejsan/tmux
+t/Users/Samuel/.local/share/vifm/Trash/000_tmux-cheatsheet.md
+	/Users/Samuel/Documents/hejsan/tmux-cheatsheet.md
+t/Users/Samuel/.local/share/vifm/Trash/002_hejsan
+	/Users/Samuel/Documents/hejsan
+t/Users/Samuel/.local/share/vifm/Trash/002_.DS_Store
+	/Users/Samuel/Documents/.DS_Store
+t/Users/Samuel/.local/share/vifm/Trash/000_Untitled.pro
+	/Users/Samuel/Documents/Untitled.pro
+t/Users/Samuel/.local/share/vifm/Trash/000_Untitled.sch
+	/Users/Samuel/Documents/Untitled.sch
+t/Users/Samuel/.local/share/vifm/Trash/000_Untitled(1).kicad_pcb
+	/Users/Samuel/Documents/Untitled(1).kicad_pcb
+t/Users/Samuel/.local/share/vifm/Trash/000_Untitled(2).kicad_pcb
+	/Users/Samuel/Documents/Untitled(2).kicad_pcb
+t/Users/Samuel/.local/share/vifm/Trash/000_.ctags
+	/Users/Samuel/.ctags
+t/Users/Samuel/.local/share/vifm/Trash/003_.DS_Store
+	/Users/Samuel/.DS_Store
+t/Users/Samuel/.local/share/vifm/Trash/000_.v8flags.4.6.85.31.Samuel.json
+	/Users/Samuel/.v8flags.4.6.85.31.Samuel.json
+t/Users/Samuel/.local/share/vifm/Trash/000_.v8flags.5.0.71.57.Samuel.json
+	/Users/Samuel/.v8flags.5.0.71.57.Samuel.json
+t/Users/Samuel/.local/share/vifm/Trash/000_.v8flags.5.0.71.60.Samuel.json
+	/Users/Samuel/.v8flags.5.0.71.60.Samuel.json
+t/Users/Samuel/.local/share/vifm/Trash/000_.v8flags.5.4.500.36.Samuel.json
+	/Users/Samuel/.v8flags.5.4.500.36.Samuel.json
+t/Users/Samuel/.local/share/vifm/Trash/000_.zcompdump-Samuel’s MacBook Pro-5.2
+	/Users/Samuel/.zcompdump-Samuel’s MacBook Pro-5.2
+t/Users/Samuel/.local/share/vifm/Trash/000_.babel.json
+	/Users/Samuel/.babel.json
+t/Users/Samuel/.local/share/vifm/Trash/004_.DS_Store
+	/Users/Samuel/Downloads/.DS_Store
+t/Users/Samuel/.local/share/vifm/Trash/000_.localized
+	/Users/Samuel/Downloads/.localized
+t/Users/Samuel/.local/share/vifm/Trash/000_-.txt
+	/Users/Samuel/Downloads/-.txt
+t/Users/Samuel/.local/share/vifm/Trash/000_3d-dwg.zip
+	/Users/Samuel/Downloads/3d-dwg.zip
+t/Users/Samuel/.local/share/vifm/Trash/000_L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202016-12-01.pdf
+	/Users/Samuel/Downloads/L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202016-12-01.pdf
+t/Users/Samuel/.local/share/vifm/Trash/000_L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202016-12-30-2.pdf
+	/Users/Samuel/Downloads/L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202016-12-30-2.pdf
+t/Users/Samuel/.local/share/vifm/Trash/000_L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202016-12-30.pdf
+	/Users/Samuel/Downloads/L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202016-12-30.pdf
+t/Users/Samuel/.local/share/vifm/Trash/000_L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202017-01-01-2.pdf
+	/Users/Samuel/Downloads/L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202017-01-01-2.pdf
+t/Users/Samuel/.local/share/vifm/Trash/000_L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202017-01-01.pdf
+	/Users/Samuel/Downloads/L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202017-01-01.pdf
+t/Users/Samuel/.local/share/vifm/Trash/000_L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202017-01-30.pdf
+	/Users/Samuel/Downloads/L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202017-01-30.pdf
+t/Users/Samuel/.local/share/vifm/Trash/000_L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202017-02-01.pdf
+	/Users/Samuel/Downloads/L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202017-02-01.pdf
+t/Users/Samuel/.local/share/vifm/Trash/000_L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202017-02-28.pdf
+	/Users/Samuel/Downloads/L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202017-02-28.pdf
+t/Users/Samuel/.local/share/vifm/Trash/000_L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202017-03-01.pdf
+	/Users/Samuel/Downloads/L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202017-03-01.pdf
+t/Users/Samuel/.local/share/vifm/Trash/000_L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202017-04-30.pdf
+	/Users/Samuel/Downloads/L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202017-04-30.pdf
+t/Users/Samuel/.local/share/vifm/Trash/000_L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202017-05-01-2.pdf
+	/Users/Samuel/Downloads/L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202017-05-01-2.pdf
+t/Users/Samuel/.local/share/vifm/Trash/000_L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202017-05-01.pdf
+	/Users/Samuel/Downloads/L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202017-05-01.pdf
+t/Users/Samuel/.local/share/vifm/Trash/000_Lån Stadshypotek 12-255445 förfallodag 2017-03-30 (1).pdf
+	/Users/Samuel/Downloads/Lån Stadshypotek 12-255445 förfallodag 2017-03-30 (1).pdf
+t/Users/Samuel/.local/share/vifm/Trash/000_Lån Stadshypotek 12-255445 förfallodag 2017-03-30.pdf
+	/Users/Samuel/Downloads/Lån Stadshypotek 12-255445 förfallodag 2017-03-30.pdf
+t/Users/Samuel/.local/share/vifm/Trash/000_Lån Stadshypotek 12-255445 förfallodag 2017-04-01 (1).pdf
+	/Users/Samuel/Downloads/Lån Stadshypotek 12-255445 förfallodag 2017-04-01 (1).pdf
+t/Users/Samuel/.local/share/vifm/Trash/000_Lån Stadshypotek 12-255445 förfallodag 2017-04-01.pdf
+	/Users/Samuel/Downloads/Lån Stadshypotek 12-255445 förfallodag 2017-04-01.pdf
+t/Users/Samuel/.local/share/vifm/Trash/000_Marathon.dmg
+	/Users/Samuel/Downloads/Marathon.dmg
+t/Users/Samuel/.local/share/vifm/Trash/000_Lepton-1.0.0.dmg
+	/Users/Samuel/Downloads/Lepton-1.0.0.dmg
+t/Users/Samuel/.local/share/vifm/Trash/000_Nya loggor sidhuvud.zip
+	/Users/Samuel/Downloads/Nya loggor sidhuvud.zip
+t/Users/Samuel/.local/share/vifm/Trash/000_Hover states.zip
+	/Users/Samuel/Downloads/Hover states.zip
+t/Users/Samuel/.local/share/vifm/Trash/000_kicad-4.0.5.dmg
+	/Users/Samuel/Downloads/kicad-4.0.5.dmg
+t/Users/Samuel/.local/share/vifm/Trash/000_hcp.zip
+	/Users/Samuel/Downloads/hcp.zip
+t/Users/Samuel/.local/share/vifm/Trash/005_.DS_Store
+	/Users/Samuel/Projects/charter-simulator/resources/views/partials/.DS_Store
+t/Users/Samuel/.local/share/vifm/Trash/000_README.md
+	/Users/Samuel/dotfiles/README.md
+t/Users/Samuel/.local/share/vifm/Trash/000_phoenix.js
+	/Users/Samuel/dotfiles/phoenix.js
+t/Users/Samuel/.local/share/vifm/Trash/001_phoenix.js
+	/Users/Samuel/dotfiles/phoenix.js
+t/Users/Samuel/.local/share/vifm/Trash/002_phoenix.js
+	/Users/Samuel/dotfiles/phoenix.js
+t/Users/Samuel/.local/share/vifm/Trash/006_.DS_Store
+	/Users/Samuel/dotfiles/.DS_Store
+t/Users/Samuel/.local/share/vifm/Trash/000_git
+	/Users/Samuel/dotfiles/git
+
+# State:
+f
+i1
+[.0
+[F
+F
+I1
+].0
+]F
+s0
