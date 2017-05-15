@@ -6,13 +6,13 @@
 	..
 1493276498
 'b
-	/Users/Samuel/bin/
+	/Users/sampet1/bin/
 	..
-1493276498
+1494839757
 'h
-	/Users/Samuel/
+	/Users/sampet1/
 	..
-1493972406
+1494839757
 
 # Bookmarks:
 
@@ -26,12 +26,6 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/Users/Samuel/Projects
-	TestApp
-2
-d/Users/Samuel/Projects/TestApp
-	..
-0
 d/Users/Samuel/Projects
 	Landshypotek dingård
 1
@@ -326,6 +320,12 @@ d/Users/Samuel/dotfiles/vim
 d/Users/Samuel/dotfiles
 	vim
 4
+d/Users/sampet1
+	.Trash
+1
+d/Users/sampet1/dotfiles/vim
+	.gitignore
+4
 d
 
 # Right window history (oldest to newest):
@@ -539,6 +539,9 @@ D/Users/Samuel/Projects/citymobility-simulator/resources/views/partials
 D/Users/Samuel/Projects/citymobility-simulator/resources/views
 	app.blade.php
 5
+D/Users
+	
+0
 D
 
 # Command line history (oldest to newest):
@@ -595,7 +598,6 @@ D
 :vsp
 :mkdir hejsan
 :set deleteprg=Trash
-:q
 :wq
 :fzf
 :vim
@@ -605,6 +607,7 @@ D
 :mkdir phoenix
 :mkdir git
 :git status
+:q
 
 # Search history (oldest to newest):
 /s
@@ -642,127 +645,15 @@ pgitconfig
 # Local filter history (oldest to newest):
 
 # Registers:
-""/Users/Samuel/.local/share/vifm/Trash/000_git
+""/Users/sampet1/.local/share/vifm/Trash/000_.DS_Store
 
 # Directory stack (oldest to newest):
 
 # Trash content:
-t/Users/Samuel/.local/share/vifm/Trash/000_feature-list2.styl
-	/Users/Samuel/Projects/citymobility-simulator/resources/assets/stylus/output/feature-list2.styl
-t/Users/Samuel/.local/share/vifm/Trash/000_hejsan
-	/Users/Samuel/Projects/citymobility-simulator/resources/assets/stylus/output/hejsan
-t/Users/Samuel/.local/share/vifm/Trash/000_index-olda.styl
-	/Users/Samuel/Projects/citymobility-simulator/resources/assets/stylus/output/index-olda.styl
-t/Users/Samuel/.local/share/vifm/Trash/001_hejsan
-	/Users/Samuel/hejsan
-t/Users/Samuel/.local/share/vifm/Trash/000_.DS_Store
-	/Users/Samuel/dotfiles/.DS_Store
-t/Users/Samuel/.local/share/vifm/Trash/000_todo
-	/Users/Samuel/Documents/hejsan/todo
-t/Users/Samuel/.local/share/vifm/Trash/001_.DS_Store
-	/Users/Samuel/Documents/hejsan/.DS_Store
-t/Users/Samuel/.local/share/vifm/Trash/000_arch
-	/Users/Samuel/Documents/hejsan/arch
-t/Users/Samuel/.local/share/vifm/Trash/000_kod
-	/Users/Samuel/Documents/hejsan/kod
-t/Users/Samuel/.local/share/vifm/Trash/000_tmux
-	/Users/Samuel/Documents/hejsan/tmux
-t/Users/Samuel/.local/share/vifm/Trash/000_tmux-cheatsheet.md
-	/Users/Samuel/Documents/hejsan/tmux-cheatsheet.md
-t/Users/Samuel/.local/share/vifm/Trash/002_hejsan
-	/Users/Samuel/Documents/hejsan
-t/Users/Samuel/.local/share/vifm/Trash/002_.DS_Store
-	/Users/Samuel/Documents/.DS_Store
-t/Users/Samuel/.local/share/vifm/Trash/000_Untitled.pro
-	/Users/Samuel/Documents/Untitled.pro
-t/Users/Samuel/.local/share/vifm/Trash/000_Untitled.sch
-	/Users/Samuel/Documents/Untitled.sch
-t/Users/Samuel/.local/share/vifm/Trash/000_Untitled(1).kicad_pcb
-	/Users/Samuel/Documents/Untitled(1).kicad_pcb
-t/Users/Samuel/.local/share/vifm/Trash/000_Untitled(2).kicad_pcb
-	/Users/Samuel/Documents/Untitled(2).kicad_pcb
-t/Users/Samuel/.local/share/vifm/Trash/000_.ctags
-	/Users/Samuel/.ctags
-t/Users/Samuel/.local/share/vifm/Trash/003_.DS_Store
-	/Users/Samuel/.DS_Store
-t/Users/Samuel/.local/share/vifm/Trash/000_.v8flags.4.6.85.31.Samuel.json
-	/Users/Samuel/.v8flags.4.6.85.31.Samuel.json
-t/Users/Samuel/.local/share/vifm/Trash/000_.v8flags.5.0.71.57.Samuel.json
-	/Users/Samuel/.v8flags.5.0.71.57.Samuel.json
-t/Users/Samuel/.local/share/vifm/Trash/000_.v8flags.5.0.71.60.Samuel.json
-	/Users/Samuel/.v8flags.5.0.71.60.Samuel.json
-t/Users/Samuel/.local/share/vifm/Trash/000_.v8flags.5.4.500.36.Samuel.json
-	/Users/Samuel/.v8flags.5.4.500.36.Samuel.json
-t/Users/Samuel/.local/share/vifm/Trash/000_.zcompdump-Samuel’s MacBook Pro-5.2
-	/Users/Samuel/.zcompdump-Samuel’s MacBook Pro-5.2
-t/Users/Samuel/.local/share/vifm/Trash/000_.babel.json
-	/Users/Samuel/.babel.json
-t/Users/Samuel/.local/share/vifm/Trash/004_.DS_Store
-	/Users/Samuel/Downloads/.DS_Store
-t/Users/Samuel/.local/share/vifm/Trash/000_.localized
-	/Users/Samuel/Downloads/.localized
-t/Users/Samuel/.local/share/vifm/Trash/000_-.txt
-	/Users/Samuel/Downloads/-.txt
-t/Users/Samuel/.local/share/vifm/Trash/000_3d-dwg.zip
-	/Users/Samuel/Downloads/3d-dwg.zip
-t/Users/Samuel/.local/share/vifm/Trash/000_L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202016-12-01.pdf
-	/Users/Samuel/Downloads/L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202016-12-01.pdf
-t/Users/Samuel/.local/share/vifm/Trash/000_L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202016-12-30-2.pdf
-	/Users/Samuel/Downloads/L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202016-12-30-2.pdf
-t/Users/Samuel/.local/share/vifm/Trash/000_L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202016-12-30.pdf
-	/Users/Samuel/Downloads/L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202016-12-30.pdf
-t/Users/Samuel/.local/share/vifm/Trash/000_L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202017-01-01-2.pdf
-	/Users/Samuel/Downloads/L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202017-01-01-2.pdf
-t/Users/Samuel/.local/share/vifm/Trash/000_L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202017-01-01.pdf
-	/Users/Samuel/Downloads/L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202017-01-01.pdf
-t/Users/Samuel/.local/share/vifm/Trash/000_L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202017-01-30.pdf
-	/Users/Samuel/Downloads/L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202017-01-30.pdf
-t/Users/Samuel/.local/share/vifm/Trash/000_L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202017-02-01.pdf
-	/Users/Samuel/Downloads/L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202017-02-01.pdf
-t/Users/Samuel/.local/share/vifm/Trash/000_L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202017-02-28.pdf
-	/Users/Samuel/Downloads/L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202017-02-28.pdf
-t/Users/Samuel/.local/share/vifm/Trash/000_L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202017-03-01.pdf
-	/Users/Samuel/Downloads/L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202017-03-01.pdf
-t/Users/Samuel/.local/share/vifm/Trash/000_L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202017-04-30.pdf
-	/Users/Samuel/Downloads/L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202017-04-30.pdf
-t/Users/Samuel/.local/share/vifm/Trash/000_L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202017-05-01-2.pdf
-	/Users/Samuel/Downloads/L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202017-05-01-2.pdf
-t/Users/Samuel/.local/share/vifm/Trash/000_L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202017-05-01.pdf
-	/Users/Samuel/Downloads/L%C3%A5n%20Stadshypotek%2012-255445%20f%C3%B6rfallodag%202017-05-01.pdf
-t/Users/Samuel/.local/share/vifm/Trash/000_Lån Stadshypotek 12-255445 förfallodag 2017-03-30 (1).pdf
-	/Users/Samuel/Downloads/Lån Stadshypotek 12-255445 förfallodag 2017-03-30 (1).pdf
-t/Users/Samuel/.local/share/vifm/Trash/000_Lån Stadshypotek 12-255445 förfallodag 2017-03-30.pdf
-	/Users/Samuel/Downloads/Lån Stadshypotek 12-255445 förfallodag 2017-03-30.pdf
-t/Users/Samuel/.local/share/vifm/Trash/000_Lån Stadshypotek 12-255445 förfallodag 2017-04-01 (1).pdf
-	/Users/Samuel/Downloads/Lån Stadshypotek 12-255445 förfallodag 2017-04-01 (1).pdf
-t/Users/Samuel/.local/share/vifm/Trash/000_Lån Stadshypotek 12-255445 förfallodag 2017-04-01.pdf
-	/Users/Samuel/Downloads/Lån Stadshypotek 12-255445 förfallodag 2017-04-01.pdf
-t/Users/Samuel/.local/share/vifm/Trash/000_Marathon.dmg
-	/Users/Samuel/Downloads/Marathon.dmg
-t/Users/Samuel/.local/share/vifm/Trash/000_Lepton-1.0.0.dmg
-	/Users/Samuel/Downloads/Lepton-1.0.0.dmg
-t/Users/Samuel/.local/share/vifm/Trash/000_Nya loggor sidhuvud.zip
-	/Users/Samuel/Downloads/Nya loggor sidhuvud.zip
-t/Users/Samuel/.local/share/vifm/Trash/000_Hover states.zip
-	/Users/Samuel/Downloads/Hover states.zip
-t/Users/Samuel/.local/share/vifm/Trash/000_kicad-4.0.5.dmg
-	/Users/Samuel/Downloads/kicad-4.0.5.dmg
-t/Users/Samuel/.local/share/vifm/Trash/000_hcp.zip
-	/Users/Samuel/Downloads/hcp.zip
-t/Users/Samuel/.local/share/vifm/Trash/005_.DS_Store
-	/Users/Samuel/Projects/charter-simulator/resources/views/partials/.DS_Store
-t/Users/Samuel/.local/share/vifm/Trash/000_README.md
-	/Users/Samuel/dotfiles/README.md
-t/Users/Samuel/.local/share/vifm/Trash/000_phoenix.js
-	/Users/Samuel/dotfiles/phoenix.js
-t/Users/Samuel/.local/share/vifm/Trash/001_phoenix.js
-	/Users/Samuel/dotfiles/phoenix.js
-t/Users/Samuel/.local/share/vifm/Trash/002_phoenix.js
-	/Users/Samuel/dotfiles/phoenix.js
-t/Users/Samuel/.local/share/vifm/Trash/006_.DS_Store
-	/Users/Samuel/dotfiles/.DS_Store
-t/Users/Samuel/.local/share/vifm/Trash/000_git
-	/Users/Samuel/dotfiles/git
+t/Users/sampet1/.local/share/vifm/Trash/000_.vim
+	/Users/sampet1/dotfiles/vim/.vim
+t/Users/sampet1/.local/share/vifm/Trash/000_.DS_Store
+	/Users/sampet1/dotfiles/vim/.DS_Store
 
 # State:
 f
