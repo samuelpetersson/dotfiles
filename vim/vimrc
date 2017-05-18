@@ -23,17 +23,19 @@ set tabstop=2
 set shiftwidth=2
 set autoread
 set ignorecase
-set incsearch 
+set incsearch
 set hidden
 set nobackup
 set nowb
 set noswapfile
+set listchars=tab:..,trail:_,extends:>,precedes:<,nbsp:~
+set laststatus=2
+set statusline=%t%=%{v:register}:%{getreg(':')}
 
 set rtp+=/usr/local/opt/fzf
 set grepprg=ag\ --nogroup\ --nocolor
 
-
-nnoremap h :w<cr>
+nnoremap h :bprev<cr>
 nnoremap l :bnext<cr>
 
 nnoremap <Tab> <C-w>w
@@ -43,8 +45,6 @@ nnoremap <space> :
 nnoremap <space><space> :<up><cr>
 nnoremap <space>j :FZF<cr>
 nnoremap <space>k :EditVifm<cr>
-
-nnoremap : <nop>
+nnoremap <c-k> :<up>
 
 cmap w!! w !sudo tee % >/dev/null
-
