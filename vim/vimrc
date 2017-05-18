@@ -35,6 +35,7 @@ set statusline=%t%=%{v:register}:%{getreg(':')}
 set rtp+=/usr/local/opt/fzf
 set grepprg=ag\ --nogroup\ --nocolor
 
+nnoremap s :w<cr>
 nnoremap h :bprev<cr>
 nnoremap l :bnext<cr>
 
