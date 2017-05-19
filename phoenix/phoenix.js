@@ -113,13 +113,16 @@ function modeLayout() {
 function grid(x, y, w, h) {
 		var screen = Screen.main().flippedVisibleFrame();
 	  var window = Window.focused();
+		log("Screen", screen.width, screen.height);
 		if(!window) { return; }
 		var wf = window.frame();
 
+		log("Window", wf.x, wf.y, wf.width, wf.height);
 		var gx = Math.max(0, Math.round((wf.x / screen.width) * cols) + x);
 		var gy = Math.max(0, Math.round((wf.y / screen.height) * rows) + y);
 		var gw = Math.max(1, Math.round((wf.width / screen.width) * cols) + w);
 		var gh = Math.max(1, Math.round((wf.height / screen.height) * rows) + h);
+		log("Grid", gx, gy, gw, gh);
 
 		var inset = spacing * 0.5;
 
