@@ -2,7 +2,6 @@ call plug#begin()
 Plug 'sheerun/vim-polyglot'
 Plug 'tpope/vim-surround'
 Plug 'airblade/vim-gitgutter'
-Plug 'mattn/emmet-vim'
 Plug 'vifm/vifm.vim'
 call plug#end()
 
@@ -21,6 +20,7 @@ set number
 set nowrap
 set tabstop=2
 set shiftwidth=2
+set expandtab
 set autoread
 set ignorecase
 set incsearch
@@ -47,5 +47,7 @@ nnoremap <space><space> :<up><cr>
 nnoremap <space>j :FZF<cr>
 nnoremap <space>k :EditVifm<cr>
 nnoremap <c-k> :<up>
+
+inoremap <C-t> <></><Esc>5hdiwp3lpT>i
 
 cmap w!! w !sudo tee % >/dev/null
