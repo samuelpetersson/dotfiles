@@ -2,7 +2,7 @@ call plug#begin()
 Plug 'sheerun/vim-polyglot'
 Plug 'tpope/vim-surround'
 Plug 'airblade/vim-gitgutter'
-Plug 'vifm/vifm.vim'
+Plug 'editorconfig/editorconfig-vim'
 call plug#end()
 
 syntax enable
@@ -10,42 +10,49 @@ filetype plugin indent on
 colorscheme smyck
 
 set nocompatible
+
 set path+=**
 set iskeyword+=-
 set wildmenu
-let g:loaded_matchparen=1
-set backspace=2
+set ignorecase
+set incsearch
+set splitright
+
+set hidden
+" let g:loaded_matchparen=1
+" set backspace=2
 set relativenumber
 set number
 set nowrap
-set tabstop=2
-set shiftwidth=2
+set tabstop=2 shiftwidth=2 softtabstop=2
+
 set expandtab
 set autoread
-set ignorecase
-set incsearch
-set hidden
 set nobackup
 set nowb
 set noswapfile
-set listchars=tab:..,trail:_,extends:>,precedes:<,nbsp:~
+" set listchars=tab:..,trail:_,extends:>,precedes:<,nbsp:~
 set laststatus=2
-set statusline=%t%=%{v:register}:%{getreg(':')}
+" set statusline=%t%=%{v:register}:%{getreg(':')}
 
-set rtp+=/usr/local/opt/fzf
-set grepprg=ag\ --nogroup\ --nocolor
+" set rtp+=/usr/local/opt/fzf
+" set grepprg=ag\ --nogroup\ --nocolor
+let g:netrw_banner=0        " disable banner
+let g:netrw_preview=1
+let g:netrw_browse_split=4  " open in prior window
+let g:netrw_altv=1          " open splits to the right
+let g:netrw_liststyle=3     " tree view
 
 nnoremap s :w<cr>
 nnoremap h :bprev<cr>
 nnoremap l :bnext<cr>
-
 nnoremap <Tab> <C-w>w
 nnoremap <S-Tab> <C-w>W
 
 nnoremap <space> :
-nnoremap <space><space> :<up><cr>
-nnoremap <space>j :FZF<cr>
-nnoremap <space>k :EditVifm<cr>
+" nnoremap <space><space> :<up><cr>
+" nnoremap <space>j :FZF<cr>
+" nnoremap <space>k :EditVifm<cr>
 nnoremap <c-k> :<up>
 
 inoremap <C-t> <></><Esc>5hdiwp3lpT>i
