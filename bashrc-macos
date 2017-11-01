@@ -1,3 +1,5 @@
+set -o vi
+
 PS1='\W$(vcprompt -f "[%b%m%u]") '
 
 alias l="ls -alG"

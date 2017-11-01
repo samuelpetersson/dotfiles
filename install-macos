@@ -33,7 +33,7 @@ brew cask install phoenix
 
 
 # Symlink
-ln -s "$(pwd)/bash/macos" $HOME/.bashrc
+ln -s "$(pwd)/bash-macos" $HOME/.bashrc
 ln -s "$(pwd)/vim" $HOME/.vim
 ln -s "$(pwd)/vifm" $HOME/.vifm
 ln -s "$(pwd)/phoenix/phoenix.js" $HOME/.phoenix.js
