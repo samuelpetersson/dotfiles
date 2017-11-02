@@ -1,0 +1,25 @@
+[[ $- != *i* ]] && return
+
+alias l="ls -al --color=auto"
+alias s="git status"
+alias e="vim"
+alias d="vifm ."
+alias cdp="cd ~/Projects"
+
+source /usr/share/fzf/key-bindings.bash
+
+function gitprompt() {
+  if ! git rev-parse --is-inside-work-tree &>/dev/null; then
+    return;
+  fi
+    status="$(git status --porcelain)"
+    branch="$(git symbolic-ref --short HEAD)" || branch=""
+    modified=""; unknown="";
+    for line in $status; do
+      [[ $line =~ ^D || $line =~ ^M ]] && modified="+"
+      [[ $line =~ ^\?\? ]] && unknown="?"
+    done
+    echo  "[$branch$modified$unknown]"
+}
+
+PS1="\W\$(gitprompt) "
