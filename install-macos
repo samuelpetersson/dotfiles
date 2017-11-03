@@ -10,11 +10,9 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 # Install Homebrew packages
 brew install git
 brew install trash
-brew install vcprompt
 brew install vim
 brew install vifm
 brew install ag
-brew install fzf
 brew install node
 
 
@@ -37,3 +35,8 @@ ln -s "$(pwd)/bash-macos" $HOME/.bashrc
 ln -s "$(pwd)/vim" $HOME/.vim
 ln -s "$(pwd)/vifm" $HOME/.vifm
 ln -s "$(pwd)/phoenix/phoenix.js" $HOME/.phoenix.js
+
+
+# Install fzf
+git clone https://github.com/junegunn/fzf.git $HOME/.fzf
+$HOME/.fzf/install
