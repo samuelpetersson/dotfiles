@@ -5,17 +5,14 @@ Plug 'editorconfig/editorconfig-vim'
 Plug 'tpope/vim-surround'
 call plug#end()
 
+set nocompatible
 syntax enable
 filetype plugin indent on
 colorscheme smyck
 
-set nocompatible
-
-set path+=**
-set wildmenu
 set ignorecase smartcase
 set incsearch
-
+set completeopt=longest,menuone
 set iskeyword+=-
 
 set nowrap
@@ -26,22 +23,20 @@ let g:loaded_matchparen=1
 set autoread
 set hidden
 set nobackup
-set nowb
 set noswapfile
-set laststatus=2
 
 set rtp+=~/.fzf
 set grepprg=ag\ --nogroup\ --nocolor
 
 command Bd bp|bd #
 
-nnoremap K :FZF<cr>
 nnoremap s :w<cr>
-nnoremap h :bnext<cr>
+nnoremap h :FZF<cr>
 nnoremap l :bnext<cr>
 nnoremap <Tab> <C-w>w
 nnoremap <S-Tab> <C-w>W
 nnoremap <space> :
 
 inoremap <C-e> <></><Esc>5hdiwp3lpT>i
-
+inoremap <expr><silent> <Tab> pumvisible() ? '<Down>' : '<C-x><C-o><C-n><C-p><C-r>=pumvisible() ? "\<lt>Down>" : ""<CR>'
+inoremap <expr><silent> <S-Tab> pumvisible() ? '<Up>' : '""<CR>'
