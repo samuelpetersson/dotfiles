@@ -11,7 +11,6 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 brew install git
 brew install trash
 brew install vim
-brew install vifm
 brew install ag
 brew install node
 
@@ -21,19 +20,14 @@ brew tap caskroom/cask
 
 
 # Instsall cask packages
-brew cask install google-chrome
 brew cask install sublime-text
-brew cask install dropbox
 brew cask install enpass
-brew cask install virtualbox
-brew cask install vagrant
 brew cask install phoenix
 
 
 # Symlink
 ln -s "$(pwd)/bash-macos" $HOME/.bashrc
 ln -s "$(pwd)/vim" $HOME/.vim
-ln -s "$(pwd)/vifm" $HOME/.vifm
 ln -s "$(pwd)/phoenix/phoenix.js" $HOME/.phoenix.js
 
 

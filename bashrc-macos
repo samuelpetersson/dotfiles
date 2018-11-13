@@ -2,9 +2,7 @@ set -o vi
 
 alias l="ls -alG"
 alias s="git status"
-alias d="vifm ."
 alias cdp="cd ~/Projects"
-alias rm="trash"
 alias rmds="find . -name \".DS_Store\" -depth -exec rm {} \;"
 
 export VISUAL=vim
