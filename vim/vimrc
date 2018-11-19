@@ -1,8 +1,6 @@
 call plug#begin()
 Plug 'sheerun/vim-polyglot'
 Plug 'airblade/vim-gitgutter'
-Plug 'editorconfig/editorconfig-vim'
-Plug 'tpope/vim-surround'
 call plug#end()
 
 set nocompatible
@@ -14,8 +12,11 @@ set ignorecase smartcase
 set incsearch
 set completeopt=longest,menuone
 set iskeyword+=-
+set path+=**
+set wildmenu
 
 set nowrap
+set autoindent
 set tabstop=2 shiftwidth=2 softtabstop=2
 set expandtab
 let g:loaded_matchparen=1
@@ -25,18 +26,11 @@ set hidden
 set nobackup
 set noswapfile
 
-set rtp+=~/.fzf
-set grepprg=ag\ --nogroup\ --nocolor
-
 command Bd bp|bd #
 
 nnoremap s :w<cr>
-nnoremap h :FZF<cr>
-nnoremap l :bnext<cr>
 nnoremap <Tab> <C-w>w
 nnoremap <S-Tab> <C-w>W
-nnoremap <space> :
 
-inoremap <C-e> <></><Esc>5hdiwp3lpT>i
-inoremap <expr><silent> <Tab> pumvisible() ? '<Down>' : '<C-x><C-o><C-n><C-p><C-r>=pumvisible() ? "\<lt>Down>" : ""<CR>'
-inoremap <expr><silent> <S-Tab> pumvisible() ? '<Up>' : '""<CR>'
+nnoremap <space> :
+nnoremap <space>f :find 

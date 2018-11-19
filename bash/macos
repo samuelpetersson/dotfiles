@@ -1,0 +1,15 @@
+PS1='\W$(vcprompt -f "[%b%m%u]") '
+
+alias c="clear"
+alias l="ls -alG"
+alias p="pwd"
+alias s="git status"
+alias e="vim"
+alias cdp="cd ~/Projects"
+alias rm="trash"
+alias rmds="find . -name \".DS_Store\" -depth -exec rm {} \;"
+
+export FZF_DEFAULT_COMMAND='ag -g ""'
+export FZF_CTRL_T_COMMAND="$FZF_DEFAULT_COMMAND"
+
+[ -f ~/.fzf.bash ] && source ~/.fzf.bash
