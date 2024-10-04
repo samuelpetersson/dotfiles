@@ -1,0 +1,4 @@
+  [alias]
+    delete-merged = !"git branch --merged | grep -v '*' | xargs git branch -D"
+    edit-modified = !$EDITOR $(git ls-files -o -m --exclude-standard)
+    uncommit = reset HEAD~
