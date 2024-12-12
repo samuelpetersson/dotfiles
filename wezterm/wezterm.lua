@@ -27,7 +27,7 @@ config.colors = {
 }
 
 config.command_palette_font_size = 16
-config.command_palette_bg_color = bg
+config.command_palette_bg_color = "#393B44"
 config.command_palette_fg_color = fg
 
 config.inactive_pane_hsb = {
@@ -77,11 +77,6 @@ config.keys = {
     action = act.SplitHorizontal { domain = 'CurrentPaneDomain' },
   },
   {
-    key = 's',
-    mods = 'SUPER',
-    action = act.SplitVertical { domain = 'CurrentPaneDomain' },
-  },
-  {
     key = 'w',
     mods = 'SUPER',
     action = wezterm.action.CloseCurrentPane { confirm = true },
@@ -96,4 +91,3 @@ config.keys = {
 
 
 return config
-

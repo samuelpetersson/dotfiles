@@ -3,14 +3,16 @@ vim.cmd.syntax'reset'
 
 vim.cmd[[
 
-hi Pmenu            ctermfg=none  ctermbg=none
-hi PmenuSel         ctermfg=7     ctermbg=4
+hi NormalFloat      ctermfg=none  ctermbg=0     cterm=none
 
-hi QuickFix         ctermfg=7     ctermbg=none
-hi QuickFixLine     ctermfg=7     ctermbg=4
+hi Pmenu            ctermfg=none  ctermbg=0     cterm=none
+hi PmenuSel         ctermfg=0     ctermbg=3     cterm=none
 
-hi StatusLine       ctermfg=7     ctermbg=0     cterm=bold
-hi StatusLineNC     ctermfg=7     ctermbg=0     cterm=none
+hi QuickFix         ctermfg=none  ctermbg=none
+hi QuickFixLine     ctermfg=0     ctermbg=3
+
+hi StatusLine       ctermfg=7     ctermbg=0     cterm=none
+hi StatusLineNC     ctermfg=8     ctermbg=0     cterm=none
 
 hi SignColumn       ctermfg=none  ctermbg=none
 hi CursorColumn                   ctermbg=none
@@ -37,6 +39,7 @@ hi SpellCap         ctermfg=none  ctermbg=none
 hi Type             ctermfg=none
 hi Constant         ctermfg=none
 hi Identifier       ctermfg=none    
+hi Function         ctermfg=none    
 hi Question         ctermfg=none    
 hi Identifier       ctermfg=none  ctermbg=none   cterm=none
 hi Statement        ctermfg=none  ctermbg=none   cterm=none
