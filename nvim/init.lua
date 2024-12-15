@@ -1,5 +1,8 @@
 require 'colors'
 
+vim.g.loaded_netrw = 1
+vim.g.loaded_netrwPlugin = 1
+
 vim.opt.swapfile = false
 vim.opt.wrap = false
 vim.opt.shiftwidth = 2
@@ -12,7 +15,8 @@ vim.opt.fillchars = 'eob: '
 vim.keymap.set('n', 's', ':w<cr>')
 vim.keymap.set('n', 'S', ':FZF<cr>')
 vim.keymap.set('n', ' ', ':')
-vim.keymap.set('n', '-', '@:')
+vim.keymap.set('n', '+', ':NvimTreeFindFileToggle<cr>')
+vim.keymap.set('n', '-', '<c-w>q')
 
 local lazypath = vim.fn.stdpath('data') .. '/lazy/lazy.nvim'
 
@@ -81,7 +85,6 @@ require('lazy').setup({
         },
         mapping = cmp.mapping.preset.insert({
           ['<c-space>'] = cmp.mapping.complete(),
-          ['<esc>'] = cmp.mapping.abort(),
           ['<cr>'] = cmp.mapping.confirm({ select = true }),
           ['<tab>'] = function()
             if cmp.visible() then
@@ -98,53 +101,53 @@ require('lazy').setup({
     end
   },
 
-  -- {
-  --   'nvim-tree/nvim-tree.lua',
-  --   lazy = false,
-  --   config = function()
-  --     require("nvim-tree").setup {
-  --       on_attach = function(bufnr)
-  --         local api = require('nvim-tree.api')
-  --         local opt = { buffer = bufnr }
-  --
-  --         vim.keymap.set('n', 'h', api.node.navigate.parent_close, opt)
-  --         vim.keymap.set('n', 'l', api.node.open.edit, opt)
-  --         vim.keymap.set('n', 'i', api.node.open.preview, opt)
-  --
-  --         vim.keymap.set('n', 'g', api.tree.toggle_git_clean_filter, opt)
-  --
-  --         vim.keymap.set('n', 'a', api.fs.create, opt)
-  --         vim.keymap.set('n', '<cr>', api.fs.rename, opt)
-  --         vim.keymap.set('n', 'dd', api.fs.remove, opt)
-  --         vim.keymap.set('n', 'x', api.fs.cut, opt)
-  --         vim.keymap.set('n', 'y', api.fs.copy.node, opt)
-  --         vim.keymap.set('n', 'p', api.fs.paste, opt)
-  --       end,
-  --       view = {
-  --         cursorline = false,
-  --       },
-  --       ui = {
-  --         confirm = {
-  --           remove = false
-  --         },
-  --       },
-  --       actions = {
-  --         open_file = {
-  --           quit_on_open = true
-  --         }
-  --       },
-  --       filters = {
-  --         git_ignored = false
-  --       },
-  --       renderer = {
-  --         root_folder_label = false,
-  --         icons = {
-  --           git_placement = "signcolumn",
-  --           show = { file = false, folder = false }
-  --         }
-  --       }
-  --     }
-  --   end
-  -- }
+  {
+    'nvim-tree/nvim-tree.lua',
+    lazy = false,
+    config = function()
+      require("nvim-tree").setup {
+        on_attach = function(bufnr)
+          local api = require('nvim-tree.api')
+          local opt = { buffer = bufnr }
+
+          vim.keymap.set('n', 'h', api.node.navigate.parent_close, opt)
+          vim.keymap.set('n', 'l', api.node.open.edit, opt)
+          vim.keymap.set('n', 'i', api.node.open.preview, opt)
+
+          vim.keymap.set('n', 'g', api.tree.toggle_git_clean_filter, opt)
+
+          vim.keymap.set('n', 'a', api.fs.create, opt)
+          vim.keymap.set('n', '<cr>', api.fs.rename, opt)
+          vim.keymap.set('n', 'dd', api.fs.remove, opt)
+          vim.keymap.set('n', 'x', api.fs.cut, opt)
+          vim.keymap.set('n', 'y', api.fs.copy.node, opt)
+          vim.keymap.set('n', 'p', api.fs.paste, opt)
+        end,
+        view = {
+          cursorline = false,
+        },
+        ui = {
+          confirm = {
+            remove = false
+          },
+        },
+        actions = {
+          open_file = {
+            quit_on_open = true
+          }
+        },
+        filters = {
+          git_ignored = false
+        },
+        renderer = {
+          root_folder_label = false,
+          icons = {
+            git_placement = "signcolumn",
+            show = { file = false, folder = false }
+          }
+        }
+      }
+    end
+  }
 
 })
